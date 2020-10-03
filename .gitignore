@@ -1,0 +1,4 @@
+# Exclude crap outside of data/ folder
+/BnetLog.txt
+/D2MultiResLog.txt
+/D2XP_IX86_1xx_114d.mpq
