@@ -2,3 +2,6 @@
 /BnetLog.txt
 /D2MultiResLog.txt
 /D2XP_IX86_1xx_114d.mpq
+
+# ignore .bin files inside the data folder
+/data/global/excel/*.bin
